@@ -8,6 +8,9 @@ int main(int argc, const char *argv[])
 	printf("develop ***********\n");
 	printf("nihao*********\n");
 	printf("hello linux!\n");
+	printf("hello linux!\n");
+	printf("hello linux!\n");
+	printf("hello linux!\n");
 
 	return 0;
 }
